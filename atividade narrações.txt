@@ -1,0 +1,87 @@
+
+I-Faça um fluxograma/narração que descreve a leitura de três valores positivos e imprima a soma deles.
+1-Inicio do algoritmo
+2-insira os valores de A;B;C
+3-se A;B;C forem maiores que zero
+A)calcule o valor usando aritmética simples usando a
+fórmula{ soma=A+B+C}
+B)imprime o valor da soma
+4-senão imprime "Os valores devem ser positivo"
+5-fim do programa
+
+II-Faça um fluxograma/narração que descreve o cálculo da média final de um aluno que realizou três provas no semestre. É considerado “aprovado” se a média for igual ou superior a 7,00, senão “reprovado”
+1-inicio
+2-Entrada de números
+3-somar os três números
+4-verificar se a média é maior que 7,0
+5- sim “aprovado”
+6- não “reprovado”
+7- Fim
+
+III-Faça um fluxograma/narração que leia um número inteiro e imprima o seu antecessor e o seu sucessor.
+1-inicio
+2-Entrada do numero inteiro
+3-verificar se é um numero inteiro
+4-somar A+1
+5-reduzir B-1
+6-mostrar resultado
+7-Fim
+
+IV-Faça um fluxograma/narração que leia dois números e mostre o maior. Se os dois números forem iguais, imprima a mensagem “Números iguais”.
+1-inicio
+2-Entrada dos números
+3-Fazer a verificação de qual é maior
+4-se os dois forem iguais(=) mostrar “números iguais”
+5-mostrar resultado
+6-Fim
+
+V-Faça um fluxograma/narração que leia 3 números e informe qual o maior entre eles. Se os três números forem iguais, imprima a mensagem “Números iguais”.
+1-Inicio
+2-Entrada dos números
+3-Leia os três números
+4-Mostrar qual o maior entre eles
+5-Caso sejam números iguais mostrar “números iguais”
+6-Fim
+
+VI-Faça um fluxograma/narração que leia um número diferente de zero e diga se este número é positivo ou negativo.
+1-Inicio
+2-Entrada do numero
+3-Leitura e verificação do numero
+4-Se for >0 positivo
+5-Se for <0 negativo
+6-Imprima o resultado
+7-Fim
+
+VII-Faça um fluxograma/narração que leia um número inteiro positivo. Se o número for maior que 10, imprima o número ao quadrado. Senão, imprima o número ao cubo.
+1-Inicio
+2-Entrada do numero
+3-Verificação se é um numero inteiro positivo
+4-Se for >10 imprimir ao quadrado
+5-Se for <10 imprimir ao cubo
+6-Fim
+
+VIII-Faça um fluxograma/narração que leia um número real. Se o número for positivo imprima a raiz quadrada. Caso contrário, imprima o número ao quadrado.
+1-Inicio
+2-Entrada do numero real
+3-Verificação se é um numero real
+4-Se for positivo >0 imprima a raiz quadrada
+5-Se for negativo <0 imprimir ao quadrado
+6-Fim
+
+IX-Faça um fluxograma/narração que leia um número inteiro e verifique se este número é par ou ímpar.
+1-inicio
+2-entrada do numero
+3-leia o numero inteiro
+4-verificar se e impa ou par
+5-mostrar o resultado
+6- Fim
+
+X-Faça um fluxograma/narração que leia o salário de um trabalhador e o valor da parcela de um empréstimo. Se a parcela for maior que 20%  do salário, imprima: “Empréstimo não concedido”. Caso contrário, imprima “Empréstimo concedido”.
+1-Inicio
+2-Entrada do valor e empréstimo
+3-Leia os valores
+4-Se a parcela >20% imprimir “Empréstimo não concedido”
+5-Se a parcela <20% imprimir “Empréstimo concedido”
+6-Fim
+
+
